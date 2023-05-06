@@ -11,3 +11,10 @@ I want
 Give me 
 
 Start with
+
+
+### Modifiers
+
+reasoning from first-principles 
+Think before you answer
+Think step-by-step
